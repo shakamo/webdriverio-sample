@@ -1,0 +1,5 @@
+_mac_node_modules
+node_modules
+output
+jest2.sublime-project
+jest2.sublime-workspace

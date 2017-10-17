@@ -1,0 +1,11 @@
+{
+    "verbose": true,
+    "globals": {
+      "browser": "iPhone",
+      "size": {
+      	"width": 0,
+      	"height": 667
+      }
+    },
+    "rootDir": "../"
+}
